@@ -1,0 +1,752 @@
+*{
+    margin: 0px;
+}
+.container {
+    background-image: url("bcd.jpg");
+    background-size: cover;
+    background-position:center;
+    height: 100%;
+    padding: 20px 20px 50px 20px;
+    width: 100%;
+    margin-top: 0px;
+}
+
+.well{
+    color: white;
+    margin-top: 60px;
+}
+
+#yum{
+    color: white;
+}
+#titi{
+    color: white;
+    margin-left: 200px;
+    margin-top: 0px;
+    font-size: 10px;
+
+    
+}
+#bolu{
+    color: white;
+    position: relative;
+    left: 125px;
+    
+}
+#festy{
+    color: white;
+    margin-left: 30px;
+}
+#saul{
+    color: white;
+    margin-left: 30px;
+}
+#dell{
+    margin-left: 250px;
+    color: white;
+    font-size: 20px;
+  /** position: absolute;**/
+
+}
+#room{
+    color: white; 
+    margin-left: 13px;   
+}
+
+#item{
+    color: white;
+    position: absolute;
+    margin-left: 250px;
+}
+#tin{
+    color: white;
+    position: absolute;
+    margin-left: 250px;
+}
+.col-sm-2 sidenav hidden-xs{
+    padding-top: 20px;
+}
+.welli{
+    background-color: orange;
+    color: white;
+}
+.wellis{
+    background-color: purple;
+    color: white;
+}
+
+
+.rell{
+    background-color: rgb(36, 69, 238);
+    color: white;
+    margin-top: 60px;
+}
+
+.wellisss{
+    background-color: white;
+    color: black;
+}
+
+#hdd{
+    position: relative;
+    top: -80px;
+    color: white;
+
+
+}
+
+#backg{
+    background-color: white;
+    margin-left: 1px;
+    height: 225px;
+    margin-top: 3px;
+    
+
+}
+
+#backa{
+    background-color: #fafafe;
+    margin-left: 0px;
+    height: 517px;
+
+}
+
+#nar{
+    background-color: white;
+
+
+}
+
+#me{
+    
+    background-color: white;
+    margin-left: 1px;
+}
+
+
+
+
+
+#me{
+    background-color: white;
+    margin-top: 15px;
+}
+#mee{
+    background-color: #ddd;
+    margin-top: 10px;
+}
+
+#shoe{
+    
+    margin-top: 230px;
+}
+
+#nif{
+    color: white;
+    margin-left: 10px;
+    
+}
+#ty{
+    color: white;
+    font-size: 10px;
+    margin-top: 0px;
+    margin-left: 180px;
+    position: relative;
+    top: 0px;
+    
+}
+#bolu{
+    margin-top: 10px;
+    margin-left: 90px;
+    font-size: 10px;
+    position: relative;
+    top: -30px;
+    
+}
+#das{
+    color: white;
+    margin-left: 13px;
+}
+
+#par{
+    font-size: 10px;
+    color: white;
+    opacity: 5px;
+    margin-left: 13px;
+    
+}
+
+#inf{
+    font-size: 15px;
+    margin-top: 18px;
+}
+
+#tab{
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid #ddd;
+    margin-top: 35px;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 16px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+
+  #folowers{
+    margin-left: 110px;
+    font-size: 16px;
+  }
+
+  #followers{
+    margin-left: 70px;
+    font-size: 14px;
+  }
+ #post{
+    margin-left: 95px;
+    font-size: 16px;
+ }
+ #posts{
+    margin-left: 80px;
+    font-size: 14px;
+ }
+ #folowing{
+    font-size: 16px;
+ }
+ #following{
+    font-size: 14px;
+ }
+ #lineline{
+    margin-top: 27px;
+ }
+
+ #buto{
+    margin-top: 25px;
+    color: white;
+    background-color: red;
+    margin-left: 120px;
+    border: 15px;
+    font-size: 11px;
+    border-radius: 4px;
+    
+
+ }
+
+ #number{
+    margin-left: 20px;
+    font-weight: 350;
+    letter-spacing: 2px;
+    margin-top: 55px;
+    font-size: 70px;
+ }
+ #letter{
+    margin-left: 22px;
+    font-size: 12px;
+ }
+ #opentwo{
+    width: 3px;
+    font-size: 10px;
+    
+
+ }
+ #open{
+    height: 10px;
+    font-size: 10px;
+    
+    
+ }
+ #dat{
+    font-size: 25px;
+ }
+
+ #buta{
+    margin-top: 30px;
+    color: white;
+    background-color: rgb(19, 221, 19);
+    width: 130px;
+    font-size: 13px;
+
+ }
+
+ #pro{
+    margin-left: 120px;
+    position: relative;
+    top: -70px;
+
+ }
+ 
+ 
+
+ #img{
+    margin-top: 40px;
+ }
+ #mos{
+    font-size: 14px;
+ }
+
+ #temp{
+    margin-top: 25px;
+ }
+ #today{
+    margin-top: 40px;
+ }
+ #nar{
+    height: 1600px;
+ }
+ #show{
+    font-size: 17px;
+ }
+ #lor{
+    position: relative;
+    bottom: 15px;
+    font-size: 11px;
+ }
+
+ #com,ore,ex{
+    margin-top: 30px;
+    text-align: justify;
+ }
+
+ #inp{
+    margin-left: 100px;
+ }
+
+ #inpi{
+    margin-left: 140px;
+ }
+
+ #inpii{
+    margin-left: 170px;
+ }
+
+ #inpiii{
+    margin-left: 185px;
+ }
+ #inpu{
+
+    background-color: rgb(19, 221, 19);
+    left: 40px;
+    
+ }
+ 
+ 
+
+ .field1{
+    float: left;
+    margin-top: 12px;
+
+ }
+
+ .field2{
+    float: left;
+    background-color: rgb(65, 199, 65);
+    margin-top: 12px;
+ }
+ .field3{
+    float: left;
+    margin-top: 10px;
+}
+
+ #beto{
+    color: white;
+    background-color: red;
+    position: relative;
+    border-radius: 10px;
+    text-align: justify;
+    border: 5px;
+    font-size: 11px;
+    
+ }
+
+ #bato{
+    color: white;
+    background-color: rgb(246, 246, 52);
+    position: relative;
+    border-radius: 10px;
+    text-align: justify;
+    border: 5px;
+    font-size: 11px;
+    
+ }
+
+ #bito{
+    color: white;
+    background-color: rgb(22, 170, 220);
+    position: relative;
+    border-radius: 10px;
+    text-align: justify;
+    border: 5px;
+    font-size: 11px;
+    
+ }
+
+#ope{
+    margin-left: 150px;
+
+    position: relative;
+    top: -20px;
+    
+    
+
+}
+#opa{
+    margin-left: 150px;
+
+    position: relative;
+    top: -27px;
+}   
+#obe{
+   position: relative;
+    bottom: -18px;
+    display: block;
+
+    
+    
+
+}
+#oba{
+    position: relative;
+     bottom: -16px;
+     display: block;
+     color: white;
+}
+.operr{
+        display: block;
+        position: relative;
+        color: blue;
+        bottom: -30px;
+    
+    
+    
+}
+.fet{
+    
+    position: relative;
+    left: 30px;
+}
+
+
+
+#com{
+    margin-top: 5px;
+}
+#mig{
+    margin-left: 75px;
+}
+#nar{
+    margin-top: -20px;
+}
+#nor{
+    margin-top: -20px;
+}
+/**.saul{
+    float: right;
+    margin-top: -50px;
+}**/
+#ros{
+    margin-top: 5px;
+}
+/**#festy{
+    float: right;
+    margin-right: 15px;
+    
+    
+}**/
+#festy{
+    margin-left: 1050px;
+    color: white;
+    font-size: 10px;
+    position: relative;
+    top: -45px;
+    
+}
+
+.saul{
+    margin-left: 15px;
+    color: white;
+    font-size: 10px;
+
+    
+}
+#fasty{
+    margin-left: 300px;
+
+    font-size: 12px;
+    padding: 10px 15px 15px 11px;
+    
+
+}
+
+.soul{
+    margin-left:20px;
+    color: rgb(56, 56, 241);
+    font-size: 12px;
+    padding: 10px 15px 15px 10px;
+
+    
+}
+#pre{
+    margin-top: -13px;
+}
+
+#ship{
+    background-color: rgb(60, 131, 213);
+    border-radius: 8px;
+    width: 130px;
+    border: none;
+    height: 25px;
+}
+#unship{
+    background-color: rgb(210, 210, 40);
+    border-radius: 8px;
+    width: 130px;
+    border: none;
+    height: 25px;
+}
+#refund{
+    background-color: red;
+    border-radius: 8px;
+    width: 130px;
+    border: none;
+    height: 25px;
+}
+#paid{
+    background-color: rgb(26, 230, 26);
+    border-radius: 8px;
+    width: 130px;
+    border: none;
+    height: 25px;
+}
+.bit{
+    background-color: rgb(49, 11, 146);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    width: 120px;
+    height: 30px;
+    margin-top: 10px;
+
+}
+#ico{
+    background-color: white;
+    color: rgb(29, 29, 242);
+    border-radius: 50%;
+    margin: 10px;
+    padding: 2px;
+}
+
+.bon{
+    background-color: white;
+    color: rgb(43, 41, 41);
+    margin-bottom: 22px;
+    border-radius: 6px;
+    width: 35px;
+    height: 28px;
+
+
+}
+.bat{
+    background-color: rgb(13, 178, 38);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    width: 100px;
+    height: 24px;
+    margin-top: 15px;
+    text-align: center;
+    font-size: 12px;
+}
+#icu{
+    background-color: white;
+    color: rgb(13, 178, 38);
+    border-radius: 50%;
+    margin: 10px;
+    
+}
+#inpil{
+margin-left: 780px;
+margin-top: -77px;
+width: 100px;
+height: 30px;
+}
+.boni{
+ /**.margin-left: 980px;
+ margin-top: -120px;**/
+ position: absolute;
+ left: 1000px;
+ top: 40px;
+}
+
+.beni{
+    /**margin-left: 950px;**/
+    
+    /**margin-top: -80px;**/
+   left: 970px; 
+   position: absolute;
+   top: 40px;
+    
+}
+#batoi{
+    display: inline;
+    margin-left: 300px;
+    margin-top: 80px;
+}
+#batooo{
+    background-color: blue;
+    color: white;
+}
+
+#dor{
+    margin-left: 40px;
+}
+a.myNavmenu {
+    border-radius: 10px !important;
+}
+.icon_right {
+    display: inline-block;
+    float: right;
+}
+.nav_text {
+    display: inline-block;
+margin-left: 6px;
+font-size: 12px;
+}
+.nav > li > a {
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+#pr progress{
+    color: rgb(79, 221, 79);
+}
+
+#spe{
+    font-size: 13px;
+}
+
+#inc{
+    font-size: 11px;
+}
+#seven{
+    background-color: rgb(26, 230, 26);
+    color: white;
+    border-radius: 50%;
+    width: 30px;
+    height: 15px;
+    margin-left: 55px;
+    font-size: 7px;
+    border: none;
+}
+
+#log{
+    
+    margin-top: 320px;
+}
+#seve{
+    margin-right: 50px;
+    position: absolute;
+    left: 0px;
+    background-color: rgb(26, 230, 26);
+    color: white;
+    border-radius: 50%;
+    width: 30px;
+    height: 15px;
+    font-size: 7px;
+    border: none;
+
+}
+#five{
+    margin-left: 50px;
+}
+#ind{
+    margin-left: 50px;
+    
+}
+#pra{
+    margin-left: 50px;
+}
+#prmm{
+    margin-left: 50px;
+}
+#band{
+    margin-left: 35px;
+    margin-top: 35px;
+    font-size: 13px;
+}
+ 
+#ink{
+    margin-left: 80px;
+    font-size: 10px;
+}
+
+#ind{
+    
+    font-size: 10px;
+} 
+#mix{
+    
+    
+display: inline;
+margin: 60px;
+
+} 
+#mini{
+    margin-left: 170px;
+    margin-top: 25px;
+} 
+#maxi{
+    margin-left: 170px;
+    margin-top: 25px;
+} 
+#shoot{
+    font-size: 30px;
+    margin-left: 25px;
+    position: absolute;
+    margin-top: 25px;
+}
+#sevn{
+    float: right;
+    margin-top: 0px;
+    margin-right: 0px;
+}
+#go{
+    margin-top: 30px;
+}
+#goan{
+    margin-top: 20px;
+}
+
+#com{
+    margin-top: 15px;
+}
+
+#ore{
+    margin-top: 20px;
+}
+#ex{
+    margin-top: 20px;
+}
+
+#sev{
+    margin-top: 20px;
+}
+
+#nab{
+    margin-top: 20px;
+}
+
+.car{
+    font-size: 13px;
+    margin-left: 25px;
+}
+
+#nig{
+    color: white;
+    font-size: 17px;
+    margin-left: 10px;
+}
